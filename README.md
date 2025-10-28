@@ -16,3 +16,9 @@
 - **Component Choice:** Used a three-column responsive grid (`row-cols-md-3`) to display core services clearly.
 - **Remixing Strategy:** Applied the `.h-100` utility class to ensure all cards have equal height, even with varying content, and added a `.shadow-lg` for a premium, elevated look.
 - **Visuals:** Used text-based emojis as temporary icons for clarity and visual interest.
+  
+## 6. About/Services Page Design
+
+- **Component Choice:** Designed a two-column layout focusing on clear information hierarchy.
+- **Remixing Strategy:** Used the **List Group** component and dynamic **Badges** to present services, offering a visual alternative to the Card layout used on the Home Page. This shows component versatility.
+- **Visuals:** Highlighted a core commitment/value proposition using a Card with a distinct border (`border-primary border-3`) to make it visually important.
