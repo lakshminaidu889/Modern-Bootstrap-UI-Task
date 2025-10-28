@@ -49,8 +49,7 @@ This repository contains the solution for the Bootstrap 5 UI design task, focusi
     - **Live Deployed URL:** `https://lakshminaida889.github.io/Modern-Bootstrap-UI-Task/`
 
 ## 9. Project Reflection (Mandatory)
-... (Existing text) ...
-
 ### Total Time Taken for Completion
 
-**Total Time Taken: [Specify your final hours/days here, e.g., 10 hours over 2 days]**
+**Total Time Taken:  2 hours over 1 day**
+
