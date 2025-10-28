@@ -41,3 +41,16 @@ This repository contains the solution for the Bootstrap 5 UI design task, focusi
 - **Layout Remix:** Used a clean, responsive two-column grid (`col-lg-6`) to separate the actionable form from the static contact information. This improves User Experience (UX).
 - **Form Validation Mastery:** Implemented the required contact form using Bootstrap's built-in validation features (`.needs-validation` class and `.invalid-feedback` elements). This confirms understanding of a key modern Bootstrap feature for improving form interaction.
 - **Content:** Used List Groups on the right side to display contact details clearly and professionally.
+  
+## 8. Hosting & Submission
+
+- **Hosting Method:** The project was deployed using **GitHub Pages**, providing a live, accessible URL for testing and review.
+- **URLs Submitted:** - **GitHub Repository URL:** `https://github.com/lakshminaida889/Modern-Bootstrap-UI-Task`
+    - **Live Deployed URL:** `https://lakshminaida889.github.io/Modern-Bootstrap-UI-Task/`
+
+## 9. Project Reflection (Mandatory)
+... (Existing text) ...
+
+### Total Time Taken for Completion
+
+**Total Time Taken: [Specify your final hours/days here, e.g., 10 hours over 2 days]**
