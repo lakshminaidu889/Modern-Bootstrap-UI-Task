@@ -22,3 +22,9 @@
 - **Component Choice:** Designed a two-column layout focusing on clear information hierarchy.
 - **Remixing Strategy:** Used the **List Group** component and dynamic **Badges** to present services, offering a visual alternative to the Card layout used on the Home Page. This shows component versatility.
 - **Visuals:** Highlighted a core commitment/value proposition using a Card with a distinct border (`border-primary border-3`) to make it visually important.
+
+## 7. Contact Page Design (The Working Form)
+
+- **Layout Remix:** Used a clean, responsive two-column grid (`col-lg-6`) to separate the actionable form from the static contact information. This improves User Experience (UX).
+- **Form Validation Mastery:** Implemented the required contact form using Bootstrap's built-in validation features (`.needs-validation` class and `.invalid-feedback` elements). This confirms understanding of a key modern Bootstrap feature for improving form interaction.
+- **Content:** Used List Groups on the right side to display contact details clearly and professionally.
