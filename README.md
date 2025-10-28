@@ -1,4 +1,17 @@
+# Modern Bootstrap 5 UI Internship Task
 
+This repository contains the solution for the Bootstrap 5 UI design task, focusing on component remixing, visual appeal, responsiveness, and clean code.
+
+## 1. Project Setup and Foundation
+
+- **Process:** Created the repository and file structure (`index.html`, `about.html`, `contact.html`, `README.md`).
+- **Technology:** Implemented Bootstrap 5 via CDN across all pages.
+
+## 2. Component Remixing: The Navbar
+
+- **Design Choice:** Implemented a standard responsive Navbar (`navbar-expand-lg`) with a light background (`bg-white`).
+- **Remixing Strategy:** Replaced the conventional search bar with a high-contrast **"Get a Quote"** primary button on the right side for clear business focus.
+- **UX:** Ensured correct active state linking on all three pages for enhanced navigation clarity.
 ## 3. Component Remixing: The Footer
 
 - **Design Choice:** Implemented a fixed dark footer (`bg-dark`) for a strong, professional contrast against the light pages.
